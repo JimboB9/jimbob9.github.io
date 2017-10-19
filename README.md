@@ -44,7 +44,7 @@ summary(cars)
 
 ## The Model
 
-$$distance = speed + speed^2 $$
+$distance = speed + speed^2 $
 
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2-1.png) 
 
